@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hogang1223/hogang1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 [![Java Badge](https://img.shields.io/badge/Java-f0f0f0?style=for-the-badge&logo=java&logoColor=black)](http://spring.io/)
 
 
-## HyoKyeong JO
+## HyoKyeong JO 👋
 
 ### LANGUAGE👩🏻‍💻
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java&logoColor=white)

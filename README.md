@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 ## HyoKyeong JO 👋
 
 ### LANGUAGE😄
-[![Java Badge](https://img.shields.io/badge/Java-f0f0f0?style=for-the-badge&logo=java&logoColor=black)](http://spring.io/)
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-yellowgreen?style=flat-square&logo=swift&logoColor=white)
 

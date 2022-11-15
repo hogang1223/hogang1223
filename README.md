@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 ## HyoKyeong JO 👋
 
 ### LANGUAGE😄
-![Objective-c](https://img.shields.io/badge/-java-red?style=flat-square&logo=objectiveC&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-yellowgreen?style=flat-square&logo=swift&logoColor=white)
+![Objective-c](https://img.shields.io/badge/-ObjectiveC-yellow?style=flat-square&logo=objective-c&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-red?style=flat-square&logo=swift&logoColor=white)
 
 
 ### INTERESTING🌱
-![Python](https://img.shields.io/badge/-Python-FFCC66?style=flat-square&logo=Python&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=Python&logoColor=black)
 
 
 ### TOOL
